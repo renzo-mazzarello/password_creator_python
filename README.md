@@ -1,4 +1,4 @@
-# Password creator written in python
+# Password creator written in python for Windows
 Questo programma è stato scritto in Python, esso è distribuito solo in versione portable. 
 Il programma può essere eseguito senza la necessità di installare il programma.
 
