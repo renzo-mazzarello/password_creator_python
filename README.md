@@ -35,7 +35,7 @@ This program is written in Python and is distributed as a portable version only.
 # Usage
 1. After downloading the program, double-click the ".exe" file.
 
-2. Once the program is open, select the number of characters, numbers, and special characters you want to use for password creation. If you leave any fields blank, they will default to "0."
+2. After you opened the program, select the number of characters, numbers, and special characters you want to use for password creation. If you leave any fields blank, they will default to "0."
 
 3. Optionally, you can enter a comment for the password.
 
